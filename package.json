@@ -1,18 +1,18 @@
 {
-  "name": "js-template-project",
+  "name": "specialist-service",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VitekVP.github.io/js-template-project",
+  "homepage": "https://VitekVP.github.io/specialist-service",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-template-project/"
+    "build": "parcel build src/*.html --public-url /specialist-service/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Viktor Pochynok <vikfdev@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
